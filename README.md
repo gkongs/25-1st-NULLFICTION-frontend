@@ -15,7 +15,6 @@
 # 🚀 기술 스택
 
 - front-end : HTML/CSS, Javascript, React, SCSS
-- back-end : Python, Django, MySQL, CORS headers
 
 # ⭐️ 서비스 소개
 
